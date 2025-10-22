@@ -9,4 +9,4 @@ Works on cabinet with multiple faces
 When using 'Standard Sizes', the possible heights are given in a dropdown menu.  
 When using 'Fit by Guide Clearance', you can enter whatever height you want.  
 
-![Screenshot in 3D View]("images\3D_with_attributes.jpg")
+![Screenshot in 3D View]("/images/3D_with_attributes.jpg")
