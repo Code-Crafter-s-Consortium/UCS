@@ -9,4 +9,4 @@ Works on cabinet with multiple faces
 When using 'Standard Sizes', the possible heights are given in a dropdown menu.  
 When using 'Fit by Guide Clearance', you can enter whatever height you want.  
 
-![Screenshot](../images/3D_with_attributes.jpg)
+![Screenshot](https://github.com/Code-Crafter-s-Consortium/UCS/blob/main/Drawers%20%26%20Rollouts/Modify%20Drawer%20Box%20Heights/images/3D_with_attributes.jpg)
